@@ -17,6 +17,3 @@
 
 #Y a las variable que almacenan texto, se le denomina strings(str).
 #Es muy importante, que el contenido a almacenar en este tipo de variables, se encuentre entre comillas. "hola mundo"
-
-#declaración de una variable
-#
